@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "nome": "Pizza Margherita",
+    "descricao": "Molho de tomate, mussarela de búfala, manjericão fresco e azeite.",
+    "categoria": "pizza",
+    "preco": 49.9
+  },
+  {
+    "id": 2,
+    "nome": "Pizza Calabresa",
+    "descricao": "Calabresa fatiada, cebola roxa, mussarela e orégano.",
+    "categoria": "pizza",
+    "preco": 45.9
+  },
+  {
+    "id": 3,
+    "nome": "Pizza Quatro Queijos",
+    "descricao": "Mussarela, provolone, parmesão e gorgonzola derretidos.",
+    "categoria": "pizza",
+    "preco": 52.9
+  },
+  {
+    "id": 4,
+    "nome": "Pizza de Chocolate com Morango",
+    "descricao": "Massa fina coberta com chocolate ao leite e morangos frescos.",
+    "categoria": "pizza doce",
+    "preco": 47.9
+  },
+  {
+    "id": 5,
+    "nome": "X-Burguer Clássico",
+    "descricao": "Pão brioche, hambúrguer de carne de 150 g, queijo prato e maionese da casa.",
+    "categoria": "hambúrguer",
+    "preco": 29.9
+  },
+  {
+    "id": 6,
+    "nome": "X-Bacon Duplo",
+    "descricao": "Dois hambúrgueres de 150 g, bacon crocante, cheddar e molho barbecue.",
+    "categoria": "hambúrguer",
+    "preco": 42.9
+  },
+  {
+    "id": 7,
+    "nome": "Hambúrguer Vegano",
+    "descricao": "Hambúrguer de grão-de-bico, alface, tomate e maionese de castanha.",
+    "categoria": "hambúrguer",
+    "preco": 34.9
+  },
+  {
+    "id": 8,
+    "nome": "Smash Burger",
+    "descricao": "Carne prensada na chapa, queijo americano, picles e cebola.",
+    "categoria": "hambúrguer",
+    "preco": 27.9
+  },
+  {
+    "id": 9,
+    "nome": "Combinado de Sushi 20 peças",
+    "descricao": "Niguiris, uramakis e hossomakis de salmão e atum.",
+    "categoria": "japonesa",
+    "preco": 79.9
+  },
+  {
+    "id": 10,
+    "nome": "Temaki de Salmão",
+    "descricao": "Cone de alga recheado com arroz, salmão fresco e cebolinha.",
+    "categoria": "japonesa",
+    "preco": 32.9
+  },
+  {
+    "id": 11,
+    "nome": "Hot Roll",
+    "descricao": "Enrolado empanado e frito com salmão e cream cheese, servido com molho tarê.",
+    "categoria": "japonesa",
+    "preco": 36.9
+  },
+  {
+    "id": 12,
+    "nome": "Yakisoba de Frango",
+    "descricao": "Macarrão oriental salteado com frango, legumes e molho shoyu.",
+    "categoria": "chinesa",
+    "preco": 38.9
+  },
+  {
+    "id": 13,
+    "nome": "Poke de Salmão",
+    "descricao": "Arroz japonês, salmão em cubos, manga, pepino, edamame e gergelim.",
+    "categoria": "japonesa",
+    "preco": 44.9
+  },
+  {
+    "id": 14,
+    "nome": "Feijoada Completa",
+    "descricao": "Feijão preto com carnes de porco, arroz, couve refogada, farofa e laranja.",
+    "categoria": "brasileira",
+    "preco": 54.9
+  },
+  {
+    "id": 15,
+    "nome": "Prato Feito de Bife",
+    "descricao": "Arroz, feijão, bife acebolado, batata frita e salada de alface.",
+    "categoria": "brasileira",
+    "preco": 26.9
+  },
+  {
+    "id": 16,
+    "nome": "Strogonoff de Frango",
+    "descricao": "Frango em molho cremoso com champignon, arroz branco e batata palha.",
+    "categoria": "brasileira",
+    "preco": 31.9
+  },
+  {
+    "id": 17,
+    "nome": "Moqueca de Peixe",
+    "descricao": "Peixe cozido no leite de coco com dendê, pimentões e coentro.",
+    "categoria": "brasileira",
+    "preco": 68.9
+  },
+  {
+    "id": 18,
+    "nome": "Escondidinho de Carne-Seca",
+    "descricao": "Purê de mandioca gratinado com carne-seca desfiada e queijo.",
+    "categoria": "brasileira",
+    "preco": 36.9
+  },
+  {
+    "id": 19,
+    "nome": "Frango Grelhado com Legumes",
+    "descricao": "Peito de frango grelhado, brócolis, cenoura e abobrinha no vapor.",
+    "categoria": "saudável",
+    "preco": 29.9
+  },
+  {
+    "id": 20,
+    "nome": "Salada Caesar",
+    "descricao": "Alface romana, frango grelhado, croutons, parmesão e molho caesar.",
+    "categoria": "saudável",
+    "preco": 28.9
+  },
+  {
+    "id": 21,
+    "nome": "Salada de Quinoa",
+    "descricao": "Quinoa, tomate-cereja, pepino, grão-de-bico e molho de limão.",
+    "categoria": "saudável",
+    "preco": 30.9
+  },
+  {
+    "id": 22,
+    "nome": "Sopa de Legumes",
+    "descricao": "Caldo caseiro com batata, cenoura, chuchu e mandioquinha.",
+    "categoria": "saudável",
+    "preco": 22.9
+  },
+  {
+    "id": 23,
+    "nome": "Wrap Integral de Atum",
+    "descricao": "Tortilha integral com atum, alface, tomate e cream cheese light.",
+    "categoria": "saudável",
+    "preco": 24.9
+  },
+  {
+    "id": 24,
+    "nome": "Bowl de Açaí 500 ml",
+    "descricao": "Açaí batido com banana, granola e leite em pó.",
+    "categoria": "açaí",
+    "preco": 25.9
+  },
+  {
+    "id": 25,
+    "nome": "Brownie com Sorvete",
+    "descricao": "Brownie de chocolate meio amargo com uma bola de sorvete de creme.",
+    "categoria": "sobremesa",
+    "preco": 21.9
+  },
+  {
+    "id": 26,
+    "nome": "Petit Gâteau",
+    "descricao": "Bolinho de chocolate com recheio cremoso quente e sorvete de baunilha.",
+    "categoria": "sobremesa",
+    "preco": 24.9
+  },
+  {
+    "id": 27,
+    "nome": "Pudim de Leite",
+    "descricao": "Pudim tradicional de leite condensado com calda de caramelo.",
+    "categoria": "sobremesa",
+    "preco": 14.9
+  },
+  {
+    "id": 28,
+    "nome": "Torta de Limão",
+    "descricao": "Base crocante, creme de limão e merengue maçaricado.",
+    "categoria": "sobremesa",
+    "preco": 16.9
+  },
+  {
+    "id": 29,
+    "nome": "Brigadeiro Gourmet (6 un.)",
+    "descricao": "Brigadeiros de chocolate belga com granulado.",
+    "categoria": "sobremesa",
+    "preco": 18.9
+  },
+  {
+    "id": 30,
+    "nome": "Churros com Doce de Leite",
+    "descricao": "Massa frita polvilhada com açúcar e canela, recheada com doce de leite.",
+    "categoria": "sobremesa",
+    "preco": 15.9
+  },
+  {
+    "id": 31,
+    "nome": "Coxinha de Frango (6 un.)",
+    "descricao": "Massa de batata recheada com frango desfiado e catupiry, empanada e frita.",
+    "categoria": "salgados",
+    "preco": 19.9
+  },
+  {
+    "id": 32,
+    "nome": "Pastel de Carne",
+    "descricao": "Massa crocante recheada com carne moída temperada e azeitona.",
+    "categoria": "salgados",
+    "preco": 9.9
+  },
+  {
+    "id": 33,
+    "nome": "Esfiha de Carne (4 un.)",
+    "descricao": "Massa aberta com carne temperada, cebola e tomate.",
+    "categoria": "árabe",
+    "preco": 16.9
+  },
+  {
+    "id": 34,
+    "nome": "Kibe Frito (4 un.)",
+    "descricao": "Trigo com carne moída e hortelã, frito na hora.",
+    "categoria": "árabe",
+    "preco": 17.9
+  },
+  {
+    "id": 35,
+    "nome": "Beirute de Filé",
+    "descricao": "Pão sírio com filé-mignon, queijo, alface, tomate e ovo.",
+    "categoria": "árabe",
+    "preco": 39.9
+  },
+  {
+    "id": 36,
+    "nome": "Pão de Queijo (10 un.)",
+    "descricao": "Bolinhas de polvilho com queijo minas, assadas na hora.",
+    "categoria": "café da manhã",
+    "preco": 14.9
+  },
+  {
+    "id": 37,
+    "nome": "Misto-Quente",
+    "descricao": "Pão de forma na chapa com presunto e queijo derretido.",
+    "categoria": "café da manhã",
+    "preco": 11.9
+  },
+  {
+    "id": 38,
+    "nome": "Tapioca de Queijo com Coco",
+    "descricao": "Tapioca recheada com queijo coalho e coco ralado.",
+    "categoria": "café da manhã",
+    "preco": 13.9
+  },
+  {
+    "id": 39,
+    "nome": "Café com Leite",
+    "descricao": "Café coado com leite vaporizado, 300 ml.",
+    "categoria": "bebidas",
+    "preco": 7.9
+  },
+  {
+    "id": 40,
+    "nome": "Suco de Laranja Natural",
+    "descricao": "Suco de 500 ml espremido na hora, sem açúcar.",
+    "categoria": "bebidas",
+    "preco": 10.9
+  },
+  {
+    "id": 41,
+    "nome": "Refrigerante em Lata",
+    "descricao": "Sabores cola, guaraná ou laranja, 350 ml.",
+    "categoria": "bebidas",
+    "preco": 6.5
+  },
+  {
+    "id": 42,
+    "nome": "Cerveja Long Neck",
+    "descricao": "Cerveja pilsen gelada, 355 ml.",
+    "categoria": "bebidas",
+    "preco": 9.9
+  },
+  {
+    "id": 43,
+    "nome": "Água de Coco",
+    "descricao": "Água de coco natural gelada, 300 ml.",
+    "categoria": "bebidas",
+    "preco": 8.9
+  },
+  {
+    "id": 44,
+    "nome": "Espaguete à Bolonhesa",
+    "descricao": "Massa com molho de carne moída e tomate, finalizada com parmesão.",
+    "categoria": "massas",
+    "preco": 34.9
+  },
+  {
+    "id": 45,
+    "nome": "Lasanha à Bolonhesa",
+    "descricao": "Camadas de massa, molho de carne, presunto, queijo e molho branco gratinado.",
+    "categoria": "massas",
+    "preco": 39.9
+  },
+  {
+    "id": 46,
+    "nome": "Nhoque ao Sugo",
+    "descricao": "Nhoque de batata com molho de tomate caseiro e manjericão.",
+    "categoria": "massas",
+    "preco": 32.9
+  },
+  {
+    "id": 47,
+    "nome": "Fettuccine Alfredo",
+    "descricao": "Massa ao molho de creme de leite, manteiga e parmesão.",
+    "categoria": "massas",
+    "preco": 37.9
+  },
+  {
+    "id": 48,
+    "nome": "Tacos de Carne (3 un.)",
+    "descricao": "Tortilhas de milho com carne temperada, pico de gallo e guacamole.",
+    "categoria": "mexicana",
+    "preco": 35.9
+  },
+  {
+    "id": 49,
+    "nome": "Burrito de Frango",
+    "descricao": "Tortilha recheada com frango, arroz, feijão, queijo e molho picante.",
+    "categoria": "mexicana",
+    "preco": 33.9
+  },
+  {
+    "id": 50,
+    "nome": "Nachos com Cheddar",
+    "descricao": "Chips de milho com cheddar derretido, jalapeño e creme azedo.",
+    "categoria": "mexicana",
+    "preco": 29.9
+  },
+  {
+    "id": 51,
+    "nome": "Balde de Frango Frito",
+    "descricao": "Dez pedaços de frango empanado e frito com tempero especial.",
+    "categoria": "frango frito",
+    "preco": 59.9
+  },
+  {
+    "id": 52,
+    "nome": "Batata Frita Grande",
+    "descricao": "Porção de batata frita crocante com sal.",
+    "categoria": "porções",
+    "preco": 18.9
+  },
+  {
+    "id": 53,
+    "nome": "Anéis de Cebola",
+    "descricao": "Cebola empanada e frita, servida com molho barbecue.",
+    "categoria": "porções",
+    "preco": 19.9
+  },
+  {
+    "id": 54,
+    "nome": "Cachorro-Quente Completo",
+    "descricao": "Pão, salsicha, purê, milho, ervilha, vinagrete e batata palha.",
+    "categoria": "lanches",
+    "preco": 16.9
+  },
+  {
+    "id": 55,
+    "nome": "Marmita Fit de Tilápia",
+    "descricao": "Tilápia grelhada, arroz integral e mix de legumes.",
+    "categoria": "saudável",
+    "preco": 32.9
+  },
+  {
+    "id": 56,
+    "nome": "Omelete de Legumes",
+    "descricao": "Ovos batidos com tomate, cebola, espinafre e queijo branco.",
+    "categoria": "saudável",
+    "preco": 19.9
+  },
+  {
+    "id": 57,
+    "nome": "Iogurte com Frutas e Granola",
+    "descricao": "Iogurte natural com morango, banana, mel e granola.",
+    "categoria": "café da manhã",
+    "preco": 16.9
+  },
+  {
+    "id": 58,
+    "nome": "Mingau de Aveia",
+    "descricao": "Aveia cozida no leite com canela e banana.",
+    "categoria": "café da manhã",
+    "preco": 12.9
+  },
+  {
+    "id": 59,
+    "nome": "Picanha na Chapa",
+    "descricao": "Picanha fatiada, arroz, farofa, vinagrete e mandioca frita.",
+    "categoria": "carnes",
+    "preco": 79.9
+  },
+  {
+    "id": 60,
+    "nome": "Costela Assada no Bafo",
+    "descricao": "Costela bovina assada por 12 horas, desfiando, com mandioca.",
+    "categoria": "carnes",
+    "preco": 72.9
+  }
+]

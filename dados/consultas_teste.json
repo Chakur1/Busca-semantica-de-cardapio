@@ -1,0 +1,217 @@
+[
+  {
+    "consulta": "algo leve pra jantar",
+    "relevantes": [
+      19,
+      21,
+      22,
+      55
+    ]
+  },
+  {
+    "consulta": "comida japonesa",
+    "relevantes": [
+      9,
+      10,
+      11,
+      13
+    ]
+  },
+  {
+    "consulta": "sobremesa com chocolate",
+    "relevantes": [
+      4,
+      25,
+      26,
+      29
+    ]
+  },
+  {
+    "consulta": "lanche rápido e barato",
+    "relevantes": [
+      31,
+      32,
+      37,
+      54
+    ]
+  },
+  {
+    "consulta": "massa italiana",
+    "relevantes": [
+      44,
+      45,
+      46,
+      47
+    ]
+  },
+  {
+    "consulta": "café da manhã",
+    "relevantes": [
+      36,
+      37,
+      38,
+      39,
+      58
+    ]
+  },
+  {
+    "consulta": "comida vegetariana",
+    "relevantes": [
+      7,
+      21,
+      22,
+      56
+    ]
+  },
+  {
+    "consulta": "bebida gelada",
+    "relevantes": [
+      40,
+      41,
+      42,
+      43
+    ]
+  },
+  {
+    "consulta": "quero um doce",
+    "relevantes": [
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "consulta": "peixe e frutos do mar",
+    "relevantes": [
+      10,
+      13,
+      17,
+      55
+    ]
+  },
+  {
+    "consulta": "churrasco",
+    "relevantes": [
+      59,
+      60
+    ]
+  },
+  {
+    "consulta": "comida mexicana",
+    "relevantes": [
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "consulta": "comida árabe",
+    "relevantes": [
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "consulta": "pizza",
+    "relevantes": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "consulta": "hambúrguer",
+    "relevantes": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "consulta": "comida caseira brasileira",
+    "relevantes": [
+      14,
+      15,
+      16,
+      18
+    ]
+  },
+  {
+    "consulta": "fit e saudável",
+    "relevantes": [
+      19,
+      21,
+      23,
+      55
+    ]
+  },
+  {
+    "consulta": "petisco para dividir com os amigos",
+    "relevantes": [
+      50,
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "consulta": "frango",
+    "relevantes": [
+      16,
+      19,
+      31,
+      49,
+      51
+    ]
+  },
+  {
+    "consulta": "comida chinesa",
+    "relevantes": [
+      12
+    ]
+  },
+  {
+    "consulta": "prato sem carne",
+    "relevantes": [
+      7,
+      21,
+      22,
+      46
+    ]
+  },
+  {
+    "consulta": "fritura",
+    "relevantes": [
+      31,
+      34,
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "consulta": "queijo derretido",
+    "relevantes": [
+      3,
+      18,
+      37,
+      50
+    ]
+  },
+  {
+    "consulta": "sopa quentinha para dia frio",
+    "relevantes": [
+      22
+    ]
+  },
+  {
+    "consulta": "açaí",
+    "relevantes": [
+      24
+    ]
+  }
+]
